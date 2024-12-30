@@ -85,3 +85,4 @@ def main():
 if __name__ == "__main__":
     main()
 
+#Improved argument parsing and error handling in __main__.py
